@@ -1,0 +1,86 @@
+
+body{
+background-color: brown;
+}
+*{ /* Bunu Vahab dedi */
+	box-sizing: border-box;
+}
+.main{
+	width: 80%;
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	height: 200px;
+	background-color: gray;
+	text-align: center;
+}
+.first{
+	width: 50%;
+	height: 1200px;
+	background-color: white;
+	float: left;
+	padding: 15px;
+}
+.second{
+	padding: 15px;
+	width: 50%;
+	height: 1200px;
+	background-color: lightgray;
+	float: left;
+}
+.header img {
+	width: 160px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.header span{
+	font-size: 60px;
+	color: white;
+	margin-bottom: 50px;
+}
+.first h2{
+	color: gray;
+}
+.first img{
+	width: 50px;
+}
+.skills{
+	float: left;
+	width: 180px;
+	height: 180px;
+	border-radius: 100%;
+	border: 20px solid black;
+	margin-left: 50px;
+	margin-top: 40px;
+	text-align: center;
+	line-height: 150px; /* Vahab dedi */ 
+	border-left: 20px solid gray;
+	border-top: 20px solid gray;
+}
+.pro{
+	width: 90%;
+	height: 40px;
+	line-height: 40px;
+	background-color: gray;
+	margin-top: 10px;
+	border-radius: 20px;
+	text-align: center;
+}
+.progress{
+	border-radius: 20px;
+	height: 100%;
+	background-color: brown;
+}
+.p1{
+	width: 70%;
+}
+.p2{
+	width: 20%;
+}
+.p3{
+	width: 50%;
+}
+.p4{
+	width: 40%;
+}
